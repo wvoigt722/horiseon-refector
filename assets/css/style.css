@@ -41,7 +41,7 @@ body {
     margin-left: 25px;
 }
 
-.link {
+.header ul a {
     color: #ffffff;
     text-decoration: none;
 }
